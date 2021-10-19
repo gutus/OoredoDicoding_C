@@ -10,7 +10,7 @@ int main()
     /* Algoritma */
     /* penulisan karakter sebagai huruf */
     printf("karakter = %c\n", c);
-    c1 = 'Z'; /* Variabel c1 diisi dengan huruf 'Z' */
+    c1 = 'Z'; /* Variabel c1 diisi dengan huruf 'Z'  */
     printf("Karakter = %c\n", c1);
 
     /* penulisan karakter */
