@@ -16,6 +16,6 @@ int main()
     /* penulisan karakter */
     printf("Karakter dalam kode ASCII 'A' = %d\n", c);
     printf("Karakter sebagai huruf= %c\n", c);
-    printf("Karakter dalam kode ASCII 'Z' = %d\n", c1); /* Z dalam ASCII adalah karakter 90*/
+    printf("Karakter dalam kode ASCII 'Z' = %d\n", c1); /*  Z dalam ASCII adalah karakter 90*/
     printf("Karakter sebagai huruf= %c\n", c1);
 }
