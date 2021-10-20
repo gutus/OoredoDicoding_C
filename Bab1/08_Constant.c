@@ -12,6 +12,7 @@ int main()
     const float param = 2.5;
     const char cc = 65;
     const char cA = 'A';
+
     /* Algoritma */
     printf("PI = %6.2f \n", pi);
     printf("NOL = %d \n", NOL);
@@ -19,4 +20,8 @@ int main()
     printf("FALSE = %d \n", FALSE);
     printf("maks = %d \n", maks);
     printf("param = %f \n", param);
+    printf("cc = %c \n", cc);
+    printf("cA = %c \n", cA);
+    printf("3\n"); /*tanpa memakai nama tidak disarankan */
+    return 0;
 }
